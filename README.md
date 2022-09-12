@@ -10,7 +10,6 @@ const June = {
   Hobby : ['Coding', 'Badminton']
 }
 
-console.log("Favorite :",June.code[0])
 ```
 **terminal**
 ```terminal
