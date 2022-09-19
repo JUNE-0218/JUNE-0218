@@ -4,18 +4,10 @@
 ```js
 const June = {
   pronouns: "He" | "Him",
-  Birth: "20080218",
+  Birth: "200?0218",
   code: ['C', 'Javascript', 'Python', 'Node', 'HTML', 'CSS'],
   Nationality: "🇰🇷"
   Hobby : ['Coding', 'Badminton']
 }
 
-```
-**terminal**
-```terminal
-C:\Users\June> node intro.js
-```
-**Result**
-```
-Favorite : C
 ```
